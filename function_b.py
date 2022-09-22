@@ -7,7 +7,10 @@ def silly_sum():
         the user enters 0, or
         the sum reaches or exceeds 1000
     """
-    pass
+    
+    
+    
+   print("I want to sleep")
 
 
 if __name__ == "__main__":
