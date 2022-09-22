@@ -7,6 +7,7 @@ def max_value(numbers):
         if num > highest:
             highest = num
     return highest
+    print("How are you?")
 
 
 if __name__ == "__main__":
